@@ -1,0 +1,13 @@
+name: PrisonCore
+main: me.uraniumape.core.PrisonCore
+version: 1.0
+api-version: 1.18
+soft-depend: [WorldEdit]
+commands:
+  generate-prison:
+    description: "Sets players home"
+    usage: /<command>
+
+  
+
+
